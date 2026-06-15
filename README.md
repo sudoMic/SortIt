@@ -1,6 +1,6 @@
 # SortIt — Ordinamento Intelligente
 
-> SortIt è un'applicazione desktop per Windows che monitora una cartella (o una cartella Google Drive) e sposta automaticamente i file nelle sottocartelle giuste, in base a regole configurabili per estensione e parole chiave nel contenuto.
+SortIt è un'applicazione desktop per Windows che monitora una cartella (o una cartella Google Drive) e sposta automaticamente i file nelle sottocartelle giuste, in base a regole configurabili per estensione e parole chiave nel contenuto.
 
 ---
 
